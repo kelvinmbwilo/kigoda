@@ -22,7 +22,7 @@
                         <br />
                         <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                         <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina Mlama</a><br>
-                        <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a>
+                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Luanda</a>
                     </li>
                 </ul>
                 </div>

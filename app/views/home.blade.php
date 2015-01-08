@@ -26,13 +26,8 @@
                             Nyerere Day oct 14th 2014 at Nkurumah Hall
                         </div>
                     </div>
-                    <div data-src="img/Mlama.png" >
-                        <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
-                            Installation of Prof. Pennina M Mlama
-                        </div>
-                    </div>
                     <div data-src="img/image2.png" >
-                        
+
                     </div><div data-src="img/Lumumba.JPG" >
                         <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
                             Installation of Prof. Patric Lumumba
@@ -82,9 +77,9 @@
             <div class="span4">
                 <h2>Upcoming Events</h2>
                 {{ HTML::image("img/nyerere_1976_state_house.jpg","",array("class"=>"img-rounded","style"=>"height:150;width:270;margin-bottom:15px;margin-top:5px")) }}
-                <p>Our next event will be on 14th october, please keep your diaries open.
+                <p>Our next event will be on 13th to 15th April, please keep your diaries open.
                     <br />
-                    <a href="{{ url("festival") }}">Read More &raquo;</a>
+                    <a href="#">Read More &raquo;</a>
                     <br />
                     <br />
                     <a href="{{asset('Brochure.pdf') }}" class="btn btn-success"><i class="icon-download"></i> Get Our Bronchure </a>
@@ -118,7 +113,7 @@
                         <br />
                         <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                         <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com</a><br>
-                        <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a>
+                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Luanda</a>
                     </li>
                     <li>
                         <i class="general foundicon-home icon" style="margin-bottom:210px"></i>

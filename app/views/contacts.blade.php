@@ -29,7 +29,7 @@
                             <br />
                             <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                             <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina Mlama</a><br>
-                            <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a><br>
+                            <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Luanda</a><br>
                         </li>
                         <li>
                             <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
@@ -89,7 +89,7 @@
 
                         Tanzania <br>
 
-                        Tel - +.......,  Mobile ....... <br>
+                        Tel - +255 22 2410763,  Mobile +255 754 561 703 <br>
 
                         Email: penina_2000@yahoo.com, mwalimunyererechair@udsm.ac.tz
                     </li>
