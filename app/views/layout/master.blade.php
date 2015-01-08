@@ -24,12 +24,6 @@
     <![endif]-->
 
     {{HTML::style("scripts/camera/css/camera.css") }}
-
-    <link href="http://fonts.googleapis.com/css?family=Chewy" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Abel" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Terminal+Dosis+Light" rel="stylesheet" type="text/css">
-    <link href="http://fonts.googleapis.com/css?family=Maven+Pro" rel="stylesheet" type="text/css">
-
     {{HTML::style("styles/custom.css") }}
 
 <!--    facebook codes-->
@@ -69,7 +63,7 @@
 
 
 </div>
-<div class="row-fluid">
+<div class="row-fluid mainArea">
     <div class="span9">
         @yield("contents")
     </div>
