@@ -137,7 +137,7 @@
                 <div class="row-fluid" style="font-family: Maven Pro;">
 
                     <img src="{{ asset('ProfPeninaOnivielMlama.jpg') }}" style="width: 300px;height: 250px" class="img-rounded"/>
-                    <h4>Current Chairperson of the Mwalimu Nyerere Professorial chair in pan african studies, Prof. Penina M. Mlama. </h4>
+                    <h5>Current Chairperson of the Mwalimu Nyerere Professorial chair in pan african studies, Prof. Penina M. Mlama. </h5>
                 </div>
                 <div class="fb-like-box" data-href="https://www.facebook.com/kigodachamwalimunyerere" data-colorscheme="light" data-show-faces="true" data-height="300" data-header="true" data-stream="true" data-show-border="false"></div><!--                <img src="{{ asset('img/nkurumah.jpg') }}" />-->
             </div>
