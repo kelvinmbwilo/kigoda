@@ -113,7 +113,7 @@
                         <br />
                         <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                         <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com</a><br>
-                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Luanda</a>
+                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com</a>
                     </li>
                     <li>
                         <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
