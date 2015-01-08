@@ -18,15 +18,22 @@
                     <div data-src="img/pic-2.jpg" >
 
                     </div>
-                    <div data-src="img/pic-1.jpg" >
+                    <div data-src="img/image10.png" >
 
+                    </div>
+                    <div data-src="img/Nyerereday.JPG" >
+                        <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap2">
+                            Nyerere Day oct 14th 2014 at Nkurumah Hall
+                        </div>
                     </div>
                     <div data-src="img/Mlama.png" >
                         <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
                             Installation of Prof. Pennina M Mlama
                         </div>
                     </div>
-                    <div data-src="img/Lumumba.JPG" >
+                    <div data-src="img/image2.png" >
+                        
+                    </div><div data-src="img/Lumumba.JPG" >
                         <div style="position:absolute;bottom:10%;left:3%;padding:10px;width:50%;" class="fadeIn camera_effected camera_caption cap1">
                             Installation of Prof. Patric Lumumba
                         </div>
