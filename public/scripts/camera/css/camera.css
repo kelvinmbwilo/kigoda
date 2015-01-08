@@ -45,6 +45,7 @@
 	position: relative;
 	width: 100%;
 	z-index: 1;
+    border-radius: 10px;
 }
 .cameraSlide {
 	bottom: 0;

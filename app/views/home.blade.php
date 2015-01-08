@@ -57,79 +57,93 @@
 
 
         <div class="row-fluid">
+<div class="span9">
+    <div class="span12" id="divMain">
 
-            <div class="span12" id="divMain">
+        <h1>Welcome</h1>
 
-                <h1>Welcome</h1>
+        <p>
+            The Mwalimu Nyerere Professorial Chair in Pan African Studies of the University of Dar es Salaam was established in April 2008, in honour of the great nationalist, pan - Africanist leader and first President of the United Republic of Tanzania, Mwalimu Julius Kambarage Nyerere.
+        </p>
+        <p>
+            The first five – years of the Chair have witnessed rigorous intellectual discourse which has brought together intellectuals from across Africa to reflect on pertinent development concerns for the African continent. This phase was steered by Professor Issa Shivji who was the first Chair holding the position from 2008 to 2013. Profesor Penina Mlama is the current Chair, appointed to the post in 2014.
+        </p>
 
-                <p>
-                    The Mwalimu Nyerere Professorial Chair in Pan African Studies of the University of Dar es Salaam was established in April 2008, in honour of the great nationalist, pan - Africanist leader and first President of the United Republic of Tanzania, Mwalimu Julius Kambarage Nyerere.
+        <br />
+
+        <div class="row-fluid">
+            <div class="span4">
+                <h2>Upcoming Events</h2>
+                {{ HTML::image("img/nyerere_1976_state_house.jpg","",array("class"=>"img-rounded","style"=>"height:150;width:270;margin-bottom:15px;margin-top:5px")) }}
+                <p>Our next event will be on 14th october, please keep your diaries open.
+                    <br />
+                    <a href="{{ url("festival") }}">Read More &raquo;</a>
+                    <br />
+                    <br />
+                    <a href="{{asset('Brochure.pdf') }}" class="btn btn-success"><i class="icon-download"></i> Get Our Bronchure </a>
+
                 </p>
+            </div>
+            <div class="span4">
+                <h2>News & events</h2>
+                {{ HTML::image("img/Lumumba.JPG","",array("class"=>"img-rounded","style"=>"height:150px;width:270px;margin-bottom:15px;margin-top:5px")) }}
                 <p>
-                    The first five – years of the Chair have witnessed rigorous intellectual discourse which has brought together intellectuals from across Africa to reflect on pertinent development concerns for the African continent. This phase was steered by Professor Issa Shivji who was the first Chair holding the position from 2008 to 2013. Profesor Penina Mlama is the current Chair, appointed to the post in 2014.
-                </p>
+                    Installation of the distinguished Nyerere Lecturer Prof. Patric Lumumba  during the 6th Mwalimu Nyerere Intellectual Festival – 9th- 11th April 2014.
+                    <br /><a href="{{ url('festival') }}">Read More &raquo;</a></p>
+            </div>
+            <div class="span4" id="footerArea4">
 
-                <br />
+                <h3>Get in Touch</h3>
 
-                <div class="row-fluid">
-                    <div class="span4">
-                        <h2>Upcoming Events</h2>
-                        {{ HTML::image("img/nyerere_1976_state_house.jpg","",array("class"=>"img-rounded","style"=>"height:150;width:270;margin-bottom:15px;margin-top:5px")) }}
-                        <p>Our next event will be on 14th october, please keep your diaries open.
-                            <br />
-                            <a href="{{ url("festival") }}">Read More &raquo;</a>
-                            <br />
-                            <br />
-                            <a href="{{asset('Brochure.pdf') }}" class="btn btn-success"><i class="icon-download"></i> Get Our Bronchure </a>
+                <ul id="contact-info">
 
-                        </p>
-                    </div>
-                    <div class="span4">
-                        <h2>News & events</h2>
-                        {{ HTML::image("img/Lumumba.JPG","",array("class"=>"img-rounded","style"=>"height:150px;width:270px;margin-bottom:15px;margin-top:5px")) }}
-                        <p>
-                            Installation of the distinguished Nyerere Lecturer Prof. Patric Lumumba  during the 6th Mwalimu Nyerere Intellectual Festival – 9th- 11th April 2014.
-                            <br /><a href="{{ url('festival') }}">Read More &raquo;</a></p>
-                    </div>
-                    <div class="span4" id="footerArea4">
+                    <li>
+                        <i class="general foundicon-phone icon" style="margin-bottom:50px"></i>
+                        <span class="field">Phone:</span>
+                        <br />
+                        +255 22-2410763<br />
+                        +255 754 561 703<br />
+                        +255 754 281 837
+                    </li>
+                    <li>
+                        <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
+                        <span class="field">Email:</span>
+                        <br />
+                        <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
+                        <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com</a><br>
+                        <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a>
+                    </li>
+                    <li>
+                        <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
+                        <span class="field">Address:</span>
+                        <br />
+                        Mwalimu Julius Nyerere Chair in Pan African Studies<br />
+                        University of Dar es Salaam<br />
+                        <!--                                Mwalimu Julius Nyerere Campus<br />-->
+                        IRA Building<br />
+                        1st floor, Office no 317<br />
+                        P.O.BOX 35091<br />
+                        Dar Es Salaam, Tanzania<br />
 
-                        <h3>Get in Touch</h3>
-
-                        <ul id="contact-info">
-
-                            <li>
-                                <i class="general foundicon-phone icon" style="margin-bottom:50px"></i>
-                                <span class="field">Phone:</span>
-                                <br />
-                                +255 22-2410763<br />
-                                +255 754 561 703<br />
-                                +255 754 281 837
-                            </li>
-                            <li>
-                                <i class="general foundicon-mail icon"></i>
-                                <span class="field">Email:</span>
-                                <br />
-                                <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a>
-                            </li>
-                            <li>
-                                <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
-                                <span class="field">Address:</span>
-                                <br />
-                                Mwalimu Julius Nyerere Chair in Pan African Studies<br />
-                                University of Dar es Salaam<br />
-<!--                                Mwalimu Julius Nyerere Campus<br />-->
-                                IRA Building<br />
-                                1st floor, Office no 317<br />
-                                P.O.BOX 35091<br />
-                                Dar Es Salaam, Tanzania<br />
-
-                            </li>
-                        </ul>
-
-                    </div>
-                </div>
+                    </li>
+                </ul>
 
             </div>
+        </div>
+
+    </div>
+</div>
+            <div class="span3" style="padding-top:25px; margin: 5px ">
+                <div class="row-fluid" style="font-family: Maven Pro;">
+
+                    <img src="{{ asset('ProfPeninaOnivielMlama.jpg') }}" style="width: 300px;height: 250px" class="img-rounded"/>
+                    <h4>Current Chairperson of the Mwalimu Nyerere Professorial chair in pan african studies, Prof. Penina M. Mlama. </h4>
+                </div>
+                <div class="fb-like-box" data-href="https://www.facebook.com/kigodachamwalimunyerere" data-colorscheme="light" data-show-faces="true" data-height="300" data-header="true" data-stream="true" data-show-border="false"></div><!--                <img src="{{ asset('img/nkurumah.jpg') }}" />-->
+            </div>
+
+
+
 
         </div>
 

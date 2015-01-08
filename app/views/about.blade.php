@@ -4,7 +4,7 @@
 <div class="row-fluid">
     <div class="contentArea" >
        <div class="divPanel notop page-content">
-<h3>BACKGRAOUNG OF THE ESTABLISHMENT OF THE MWALIMU NYERERE PROFESSORIAL CHAIR IN PAN AFRICAN STUDIES</h3>
+<h3>BACKGROUND OF THE ESTABLISHMENT OF THE MWALIMU NYERERE PROFESSORIAL CHAIR IN PAN AFRICAN STUDIES</h3>
 <p>Mwalimu Julius Nyerere Research Chair in Pan African Studies was established as a university chair in honour of the great nationalist and pan Africanist leader of Africa and the first President of Tanzania, Mwalimu Julius Kambarage Nyerere. It was inaugurated on April 19, 20008 by the Prime Minister Honourable Mizengo Pinda in the presence of Mama Maria Nyerere
 </p>
    <h3> OBJECTIVES:</h3>

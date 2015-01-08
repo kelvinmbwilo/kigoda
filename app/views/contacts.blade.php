@@ -24,10 +24,12 @@
                             +255 754 281 837
                         </li>
                         <li>
-                            <i class="general foundicon-mail icon"></i>
+                            <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
                             <span class="field">Email:</span>
                             <br />
-                            <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a>
+                            <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
+                            <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina Mlama</a><br>
+                            <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a><br>
                         </li>
                         <li>
                             <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
@@ -45,6 +47,54 @@
                     </ul>
 
                 </div>
+            </div>
+
+        </div>
+        <div class="row-fluid">
+            <div class="span6">
+                <h4>Direct Contact</h4>
+                <ul id="contact-info">
+                    <li>
+                        <i class="general icon-user icon" style="margin-bottom:210px"></i>
+                        <b> Walter Rodney Luanda </b> <br> Administrator and member of steering committee<br>
+
+                        Mwalimu Nyerere Chair in Pan- African Studies <br>
+
+                        University of Dar es Salaam, <br>
+
+                        IRA Building, PO Box 35091, Dar es Salaam <br>
+
+                        Tanzania <br>
+
+                        Tel - +255 22 2410763,  Mobile 0754 281837 <br>
+
+                        Email: walterluanda@gmail.com, mwalimunyererechair@udsm.ac.tz
+                    </li>
+
+                    </ul>
+            </div>
+            <div class="span6">
+                <h4>Direct Contact</h4>
+                <ul id="contact-info">
+                    <li>
+                        <i class="general icon-user icon" style="margin-bottom:210px"></i>
+                        <b>Prof. Penina Oniviel Mlama </b> <br>
+                        Chairperson  <br>
+
+                        Mwalimu Nyerere Chair in Pan- African Studies <br>
+
+                        University of Dar es Salaam, <br>
+
+                        IRA Building, PO Box 35091, Dar es Salaam <br>
+
+                        Tanzania <br>
+
+                        Tel - +.......,  Mobile ....... <br>
+
+                        Email: penina_2000@yahoo.com, mwalimunyererechair@udsm.ac.tz
+                    </li>
+
+                </ul>
             </div>
 
         </div>

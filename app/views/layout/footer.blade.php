@@ -3,7 +3,7 @@
     <div class="divPanel">
 
         <div class="row-fluid">
-            <div class="span9">
+            <div class="span8">
                 <p class="copyright">
                     Copyright ©{{ date("Y") }} UNIVERSITY OF DAR ES SALAAM THE MWALIMU NYERERE PROFESSORIAL CHAIR IN PAN AFRICAN STUDIES                </p>
 
@@ -14,22 +14,15 @@
                     <a href="#"><i class="social foundicon-rss"></i> Rss</a>
                 </p>
             </div>
-            <div class="span3">
+            <div class="span4">
                 <ul id="contact-info">
-
                     <li>
-                        <i class="general foundicon-phone icon" style="margin-bottom:50px"></i>
-                        <span class="field">Phone:</span>
-                        <br />
-                        +255 22-2410763<br />
-                        +255 754 561 703<br />
-                        +255 754 281 837
-                    </li>
-                    <li>
-                        <i class="general foundicon-mail icon"></i>
+                        <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
                         <span class="field">Email:</span>
                         <br />
-                        <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a>
+                        <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
+                        <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina Mlama</a><br>
+                        <a href="mailto:walter@gmail.com" title="Email">walter@gmail.com - Walter Luanda</a>
                     </li>
                 </ul>
                 </div>
