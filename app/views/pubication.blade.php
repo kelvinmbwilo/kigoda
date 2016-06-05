@@ -2,7 +2,7 @@
 
 @section("contents")
 <div class="contentArea" >
-    <div class="divPanel notop page-content">
+    <div class="divPanel notop page-content" style='padding-left:35px'>
         <h2>PUBLICATIONS OF MWALIMU NYERERE CHAIR IN PAN AFRICAN STUDIES: 2008-2013</h2>
        <h3> CHEMCHEMI, Issue no. 1</h3>
        <h4>Issa Shivji, Adolf Mkenda, Opportuna Kweka. (2009).</h4>

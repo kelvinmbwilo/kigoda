@@ -16,34 +16,35 @@
                     <ul id="contact-info">
 
                         <li>
-                            <i class="general foundicon-phone icon" style="margin-bottom:50px"></i>
-                            <span class="field">Phone:</span>
-                            <br />
-                            +255 22-2410763<br />
-                            +255 754 561 703<br />
-                            +255 754 281 837
-                        </li>
-                        <li>
-                            <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
-                            <span class="field">Email:</span>
-                            <br />
-                            <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
-                            <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina Mlama</a><br>
-                            <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Luanda</a><br>
-                        </li>
-                        <li>
-                            <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
-                            <span class="field">Address:</span>
-                            <br />
-                            Mwalimu Julius Nyerere Chair in Pan African Studies<br />
-                            University of Dar es Salaam<br />
-                            <!--                                Mwalimu Julius Nyerere Campus<br />-->
-                            IRA Building<br />
-                            1st floor, Office no 317<br />
-                            P.O.BOX 35091<br />
-                            Dar Es Salaam, Tanzania<br />
+                                                <i class="general foundicon-phone icon" style="margin-bottom:70px"></i>
+                                                <span class="field">Phone:</span>
+                                                <br />
+                                                +255 22-2410763<br />
+                                                +255 22-2410655<br />
+                                                +255 754 561 703<br />
+                                                +255 672 875 185
+                                            </li>
+                                            <li>
+                                                <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
+                                                <span class="field">Email:</span>
+                                                <br />
+                                                <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
+                                                <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com</a><br>
+                                                <a href="mailto:lokiowi@yahoo.com" title="Email">lokiowi@yahoo.com</a>
+                                            </li>
+                                            <li>
+                                                <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
+                                                <span class="field">Address:</span>
+                                                <br />
+                                                Mwalimu Julius Nyerere Chair in Pan African Studies<br />
+                                                University of Dar es Salaam<br />
+                                                <!--                                Mwalimu Julius Nyerere Campus<br />-->
+                                                school of business UDEC building<br />
+                                                1st floor, office no. 207,208,2009<br />
+                                                P.O.BOX 35091<br />
+                                                Dar Es Salaam, Tanzania<br />
 
-                        </li>
+                                            </li>
                     </ul>
 
                 </div>
@@ -56,7 +57,7 @@
                 <ul id="contact-info">
                     <li>
                         <i class="general icon-user icon" style="margin-bottom:210px"></i>
-                        <b> Walter Rodney Luanda </b> <br> Administrator and member of steering committee<br>
+                        <b> Kiowi Lucy </b> <br> Administrator and member of steering committee<br>
 
                         Mwalimu Nyerere Chair in Pan- African Studies <br>
 
@@ -66,9 +67,9 @@
 
                         Tanzania <br>
 
-                        Tel - +255 22 2410763,  Mobile 0754 281837 <br>
+                        Tel - +255 22 2410763,  Mobile +255 672 875 185 <br>
 
-                        Email: walterluanda@gmail.com, mwalimunyererechair@udsm.ac.tz
+                        Email: lokiowi@yahoo.com, mwalimunyererechair@udsm.ac.tz
                     </li>
 
                     </ul>

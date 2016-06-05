@@ -22,7 +22,7 @@
                         <br />
                         <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                         <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com - Prof Penina O Mlama</a><br>
-                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com - Walter Rodney Luanda</a>
+                        <a href="mailto:lokiowi@yahoo.com" title="Email">lokiowi@yahoo.com - Kiowi Lucy Luanda</a>
                     </li>
                 </ul>
                 </div>

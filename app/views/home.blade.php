@@ -77,12 +77,12 @@
             <div class="span4">
                 <h2>Upcoming Events</h2>
                 {{ HTML::image("img/nyerere_1976_state_house.jpg","",array("class"=>"img-rounded","style"=>"height:150;width:270;margin-bottom:15px;margin-top:5px")) }}
-                <p>Our next event will be on 13th to 15th April, please keep your diaries open.
+                <p>Our next event will be on 14<sup>th</sup> to 16<sup>th</sup> June 2016, please keep your diaries open.
                     <br />
                     <a href="#">Read More &raquo;</a>
                     <br />
                     <br />
-                    <a href="{{asset('Brochure.pdf') }}" class="btn btn-success"><i class="icon-download"></i> Get Our Bronchure </a>
+                    <a href="{{asset('Bronchure.pdf') }}" class="btn btn-success"><i class="icon-download"></i> Get Our Bronchure </a>
 
                 </p>
             </div>
@@ -90,7 +90,8 @@
                 <h2>News & events</h2>
                 {{ HTML::image("img/Lumumba.JPG","",array("class"=>"img-rounded","style"=>"height:150px;width:270px;margin-bottom:15px;margin-top:5px")) }}
                 <p>
-                    Installation of the distinguished Nyerere Lecturer Prof. Patric Lumumba  during the 6th Mwalimu Nyerere Intellectual Festival – 9th- 11th April 2014.
+                    aunching of 9 school-based Mwalimu Nyerere ideals forum at Azania secondary school 28th may 2016.
+                    Guest of honour was DSM City Mayor Isaya Mwita
                     <br /><a href="{{ url('festival') }}">Read More &raquo;</a></p>
             </div>
             <div class="span4" id="footerArea4">
@@ -100,12 +101,13 @@
                 <ul id="contact-info">
 
                     <li>
-                        <i class="general foundicon-phone icon" style="margin-bottom:50px"></i>
+                        <i class="general foundicon-phone icon" style="margin-bottom:70px"></i>
                         <span class="field">Phone:</span>
                         <br />
                         +255 22-2410763<br />
+                        +255 22-2410655<br />
                         +255 754 561 703<br />
-                        +255 754 281 837
+                        +255 672 875 185
                     </li>
                     <li>
                         <i class="general foundicon-mail icon" style="margin-bottom:50px"></i>
@@ -113,7 +115,7 @@
                         <br />
                         <a href="mailto:mwalimuchair@udsm.ac.tz" title="Email">mwalimuchair@udsm.ac.tz</a><br>
                         <a href="mailto:penina_2000@yahoo.com" title="Email">penina_2000@yahoo.com</a><br>
-                        <a href="mailto:walterluanda@gmail.com" title="Email">walterluanda@gmail.com</a>
+                        <a href="mailto:lokiowi@yahoo.com" title="Email">lokiowi@yahoo.com</a>
                     </li>
                     <li>
                         <i class="general foundicon-home icon" style="margin-bottom:210px"></i>
@@ -122,8 +124,8 @@
                         Mwalimu Julius Nyerere Chair in Pan African Studies<br />
                         University of Dar es Salaam<br />
                         <!--                                Mwalimu Julius Nyerere Campus<br />-->
-                        IRA Building<br />
-                        1st floor, Office no 317<br />
+                        school of business UDEC building<br />
+                        1st floor, office no. 207,208,2009<br />
                         P.O.BOX 35091<br />
                         Dar Es Salaam, Tanzania<br />
 
